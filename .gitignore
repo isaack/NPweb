@@ -2,7 +2,8 @@
 *.swp
 *~.nib
 build/
-xcuserdata/
+NPwebTests/
+NPweb.xcodeproj/xcuserdata/
 *.pbxuser
 *.perspective
 *.perspectivev3
