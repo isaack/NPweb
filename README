@@ -1,0 +1,9 @@
+DESCRIPTION
+This is an iOS 4.3.x and above app that consumes the Greek Ministry of Finance's General Secretariat of Information Systems web service for entities informationbased on their TaxID-AFM.  
+Tested on iPhone 4, iPod Touch 4.
+
+BUILDING
+Frameworks needed for building (iOS 4.3 and above)
+MobileCoreServices
+libz.1.2.3.dylib
+SystemConfiguration
