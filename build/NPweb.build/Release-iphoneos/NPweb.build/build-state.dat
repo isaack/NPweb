@@ -1,0 +1,886 @@
+TNPweb
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/Info.plist NPweb/NPweb-Info.plist
+cProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch.gch NPweb/NPweb-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch.gch NPweb/NPweb-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/main.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebAppDelegate.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebViewController.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USGlobals.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USAdditions.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/rgw.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/RgWsBasStoixNSvc.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Unparsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Parsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/ns1.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/main.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebAppDelegate.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebViewController.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USGlobals.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb normal armv6
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USAdditions.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/rgw.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/RgWsBasStoixNSvc.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Unparsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Parsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/ns1.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb normal armv7
+cCreateUniversalBinary /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb normal "armv6 armv7"
+cGenerateDSYMFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb
+cCopyStringsFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/InfoPlist.strings NPweb/en.lproj/InfoPlist.strings
+cCompileXIB /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib
+cCompileXIB /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xib
+cPhaseScriptExecution "Run Script" /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Script-EA582C58147874BC009C8245.sh
+cTouch /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+cValidate /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004EC8397E0000000000000132
+t1321744766
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D93E1CD00000000002CAD50
+t1301537229
+s2927952
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D93E18000000000000004CF
+t1301537152
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93E13C00000000003532B0
+t1301537084
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93E1FD00000000003E22F0
+t1301537277
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93E1E60000000000001466
+t1301537254
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D93E32C0000000000094C50
+t1301537580
+s609360
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D93E14E00000000000B0CA0
+t1301537102
+s724128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D99FA7C0000000000000AA1
+t1301936764
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D99FAFA0000000000CA2AE0
+t1301936890
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/ctype.h
+c000000004D4F6E910000000000002C18
+t1297051281
+s11288
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/string.h
+c000000004D4F6E910000000000001A3A
+t1297051281
+s6714
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib/libz.1.2.3.dylib
+c000000004D93D6CB0000000000020FE0
+t1301534411
+s135136
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Prefix.pch
+c000000004EC0E4A7000000000000013C
+t1321264295
+s316
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.h
+c000000004EC0E4A7000000000000019A
+t1321264295
+s410
+i<UIKit/UIKit.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m
+c000000004EC0E4A7000000000000095D
+t1321264295
+s2397
+i"NPwebAppDelegate.h"
+i"NPwebViewController.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.h
+c000000004EC81AF1000000000000056A
+t1321736945
+s1386
+i<UIKit/UIKit.h>
+i"RgWsBasStoixNSvc.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m
+c000000004EC8CC080000000000001DF1
+t1321782280
+s7665
+i"NPwebViewController.h"
+i"RgWsBasStoixNSvc.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.h
+c000000004EC10B8D0000000000000849
+t1321274253
+s2121
+i<Foundation/Foundation.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m
+c000000004EC10B8D0000000000004D57
+t1321274253
+s19799
+i<ctype.h>
+i<string.h>
+i"NSDate+ISO8601Parsing.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.h
+c000000004EC10B8D00000000000005B7
+t1321274253
+s1463
+i<Foundation/Foundation.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m
+c000000004EC10B8D00000000000019EF
+t1321274253
+s6639
+i<Foundation/Foundation.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.h
+c000000004EC823DF00000000000011BA
+t1321739231
+s4538
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+i<libxml/parser.h>
+i"ns1.h"
+i"RgWsBasStoixNSvc.h"
+i"rgw.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m
+c000000004EC83094000000000000557C
+t1321742484
+s21884
+i"RgWsBasStoixNSvc.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.h
+c000000004EC10B8D0000000000000912
+t1321274253
+s2322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m
+c000000004EC10B8D0000000000002DEB
+t1321274253
+s11755
+i"USAdditions.h"
+i"NSDate+ISO8601Parsing.h"
+i"NSDate+ISO8601Unparsing.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.h
+c000000004EC10B8D00000000000000DB
+t1321274253
+s219
+i<Foundation/Foundation.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m
+c000000004EC10B8D0000000000000187
+t1321274253
+s391
+i"USGlobals.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/InfoPlist.strings
+c000000004EC0E4A7000000000000002D
+t1321264295
+s45
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib
+c000000004EC0E4A70000000000004E01
+t1321264295
+s19969
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xib
+c000000004EC82607000000000000903B
+t1321739783
+s36923
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m
+c000000004EC0E4A70000000000000166
+t1321264295
+s358
+i<UIKit/UIKit.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.h
+c000000004EC10B8D000000000000027B
+t1321274253
+s635
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m
+c000000004EC10B8D0000000000000069
+t1321274253
+s105
+i"ns1.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.h
+c000000004EC291DE0000000000000E21
+t1321374174
+s3617
+i<Foundation/Foundation.h>
+i"USAdditions.h"
+i<libxml/tree.h>
+i"USGlobals.h"
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m
+c000000004EC8CA0D00000000000095A0
+t1321781773
+s38304
+i"rgw.h"
+i<libxml/xmlstring.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb
+t1321781780
+s124940
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb.LinkFileList
+c000000004EC83DEE00000000000004C9
+t1321745902
+s1225
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebAppDelegate.o
+t1321745904
+s49092
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebViewController.o
+t1321778007
+s68868
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Parsing.o
+t1321745905
+s26536
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Unparsing.o
+t1321745905
+s16568
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/RgWsBasStoixNSvc.o
+t1321745905
+s88352
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USAdditions.o
+t1321745904
+s40936
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USGlobals.o
+t1321745904
+s6952
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/main.o
+t1321745904
+s3220
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/ns1.o
+t1321745905
+s500
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/rgw.o
+t1321781780
+s127672
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb
+t1321781780
+s124988
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb.LinkFileList
+c000000004EC83DEE00000000000004C9
+t1321745902
+s1225
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebAppDelegate.o
+t1321745906
+s49220
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebViewController.o
+t1321778007
+s69076
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Parsing.o
+t1321745907
+s26088
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Unparsing.o
+t1321745907
+s17676
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/RgWsBasStoixNSvc.o
+t1321745907
+s90480
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USAdditions.o
+t1321745906
+s40632
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USGlobals.o
+t1321745906
+s7004
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/main.o
+t1321745905
+s3364
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/ns1.o
+t1321745907
+s500
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/rgw.o
+t1321781780
+s126728
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Script-EA582C58147874BC009C8245.sh
+c000000004EC83F8500000000000001CA
+t1321746309
+s458
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+t1321781781
+s306
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM
+t1321781780
+s102
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/Info.plist
+t1321745902
+s970
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb
+t1321781780
+s270624
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/PkgInfo
+t1321745902
+s8
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/ResourceRules.plist
+t2
+s0
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/InfoPlist.strings
+t1321745907
+s42
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/MainWindow.nib
+t1321745909
+s1661
+
+N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/NPwebViewController.nib
+t1321745909
+s7644
+
+N/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch.gch
+t1321745903
+s7739292
+
+N/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch.gch
+t1321745903
+s8234908
+
+NNPweb/NPweb-Info.plist
+c000000004EC0E4A7000000000000049B
+t1321264295
+s1179
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m
+r0
+
+CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies94bed09a0379b441^bda6d39a0379b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebAppDelegate.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438704.192607
+e343438704.430655
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebAppDelegate.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.mda7331707578b441^af3e6e707578b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m0000000000000000^1963"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebAppDelegate.o NPweb/NPwebAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebAppDelegate.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebViewController.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343475098.876384
+e343475099.216568
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebViewController.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m1f84e09a0379b441^8082379b0379b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m0000000000000000^1975"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebViewController.o NPweb/NPwebViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPwebViewController.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Parsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438705.619216
+e343438705.921347
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Parsing.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.meca49e717578b441^32e9eb717578b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m0000000000000000^1983"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Parsing.o NPweb/NSDate+ISO8601Parsing.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Parsing.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Unparsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438705.597089
+e343438705.735498
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Unparsing.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.me4f998717578b441^8256bc717578b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m0000000000000000^1991"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Unparsing.o NPweb/NSDate+ISO8601Unparsing.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NSDate+ISO8601Unparsing.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/RgWsBasStoixNSvc.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438705.026594
+e343438705.595889
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/RgWsBasStoixNSvc.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m782a08717578b441^c79b98717578b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m0000000000000000^1963"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/RgWsBasStoixNSvc.o NPweb/RgWsBasStoixNSvc.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/RgWsBasStoixNSvc.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USAdditions.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438704.524729
+e343438704.996076
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USAdditions.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m637a86707578b441^a20805717578b441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m0000000000000000^1943"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USAdditions.o NPweb/USAdditions.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USAdditions.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USGlobals.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438704.431860
+e343438704.522971
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USGlobals.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m3aae6e707578b441^f8e085707578b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m0000000000000000^1935"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USGlobals.o NPweb/USGlobals.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/USGlobals.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/main.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438704.058222
+e343438704.191412
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/main.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.md1070f707578b441^2c0c31707578b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m0000000000000000^1915"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/main.o NPweb/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/main.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/ns1.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438705.736722
+e343438705.832724
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/ns1.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m88b9bc717578b441^e02cd5717578b441^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m0000000000000000^1911"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/ns1.o NPweb/ns1.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/ns1.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/rgw.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343474579.604422
+e343474580.266976
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/rgw.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_RgWsBasStoixNRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:140: warning: unused variable 'root'
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_GenWsErrorRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:900: warning: unused variable 'root'
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.maad69a930179b441^2f6944940179b441^-447"/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_RgWsBasStoixNRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:140: warning: unused variable 'root'/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_GenWsErrorRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:900: warning: unused variable 'root'2(21%IDEActivityLogMessage2@22"Unused variable 'root'-343474579#137#88#-1#-23%DVTTextDocumentLocation3@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m0000000000000000^139#18446744073709551615#139#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@22"Unused variable 'root'-343474579#359#88#-1#-3@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m0000000000000000^899#18446744073709551615#899#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation4@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m0000000000000000^1911"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/rgw.o NPweb/rgw.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/rgw.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebAppDelegate.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438705.923192
+e343438706.095041
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebAppDelegate.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.mbd73ec717578b441^ec2e18727578b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m0000000000000000^1963"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebAppDelegate.o NPweb/NPwebAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebAppDelegate.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebAppDelegate.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebViewController.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343475098.891646
+e343475099.262174
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebViewController.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.maa64e49a0379b441^062e439b0379b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m0000000000000000^1975"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebViewController.o NPweb/NPwebViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPwebViewController.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPwebViewController.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Parsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438707.351598
+e343438707.655777
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Parsing.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m63255a737578b441^dae1a7737578b441^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m0000000000000000^1983"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Parsing.o NPweb/NSDate+ISO8601Parsing.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Parsing.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Parsing.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Unparsing.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438707.293044
+e343438707.439682
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Unparsing.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m80294b737578b441^e19970737578b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m0000000000000000^1991"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Unparsing.o NPweb/NSDate+ISO8601Unparsing.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NSDate+ISO8601Unparsing.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NSDate+ISO8601Unparsing.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/RgWsBasStoixNSvc.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438706.847133
+e343438707.291790
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/RgWsBasStoixNSvc.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m37fed8727578b441^29b24a737578b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m0000000000000000^1963"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/RgWsBasStoixNSvc.o NPweb/RgWsBasStoixNSvc.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/RgWsBasStoixNSvc.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/RgWsBasStoixNSvc.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USAdditions.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438706.217596
+e343438706.845831
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USAdditions.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m189439727578b441^2995d8727578b441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m0000000000000000^1943"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USAdditions.o NPweb/USAdditions.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USAdditions.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USAdditions.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USGlobals.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438706.115736
+e343438706.216322
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USGlobals.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m72c11d727578b441^9e6037727578b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m0000000000000000^1935"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USGlobals.o NPweb/USGlobals.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/USGlobals.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/USGlobals.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/main.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438705.833947
+e343438705.922435
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/main.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.me09cd5717578b441^6327ec717578b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m0000000000000000^1915"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/main.o NPweb/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/main.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/main.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/ns1.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438707.440901
+e343438707.538462
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/ns1.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m48fe70737578b441^aad789737578b441^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m0000000000000000^1911"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/ns1.o NPweb/ns1.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/ns1.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/ns1.o
+
+CCompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/rgw.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343474579.627363
+e343474580.401060
+r1
+xCompileC
+xbuild/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/rgw.o
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_RgWsBasStoixNRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:140: warning: unused variable 'root'
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_GenWsErrorRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':
+o/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:900: warning: unused variable 'root'
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m38bca0930179b441^2ead66940179b441^-447"/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_RgWsBasStoixNRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:140: warning: unused variable 'root'/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m: In function '-[rgw_GenWsErrorRtUser xmlNodeForDoc:elementName:elementNSPrefix:]':/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m:900: warning: unused variable 'root'2(21%IDEActivityLogMessage2@22"Unused variable 'root'-343474579#137#88#-1#-23%DVTTextDocumentLocation3@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m0000000000000000^139#18446744073709551615#139#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@22"Unused variable 'root'-343474579#359#88#-1#-3@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m0000000000000000^899#18446744073709551615#899#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation4@66"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m0000000000000000^1911"CompileC build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/rgw.o NPweb/rgw.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/rgw.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/rgw.o
+
+CCompileXIB /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib
+s343438707.846790
+e343438709.431325
+r1
+xCompileXIB
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib
+o2011-11-20 01:38:29.008 Interface Builder Cocoa Touch Tool[38951:1803] CFPreferences: user home directory at file://localhost/Users/isaak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib6adbd8737578b441^2a746e757578b441^-240"2011-11-20 01:38:29.008 Interface Builder Cocoa Touch Tool[38951:1803] CFPreferences: user home directory at file://localhost/Users/isaak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib0000000000000000^616"CompileXIB NPweb/en.lproj/MainWindow.xib    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/MainWindow.nib /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+
+CCompileXIB /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xib
+s343438707.850397
+e343438709.431482
+r1
+xCompileXIB
+x/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xib
+o2011-11-20 01:38:29.023 Interface Builder Cocoa Touch Tool[38952:1803] CFPreferences: user home directory at file://localhost/Users/isaak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xibacc7d9737578b441^fe7d6e757578b441^-240"2011-11-20 01:38:29.023 Interface Builder Cocoa Touch Tool[38952:1803] CFPreferences: user home directory at file://localhost/Users/isaak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xib0000000000000000^643"CompileXIB NPweb/en.lproj/NPwebViewController.xib    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/NPwebViewController.nib /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/NPwebViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+
+CCopyStringsFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/InfoPlist.strings NPweb/en.lproj/InfoPlist.strings
+s343438707.845380
+e343438707.849239
+r1
+xCopyStringsFile
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj/InfoPlist.strings
+xNPweb/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy NPweb/en.lproj/InfoPlist.strings7f89d8737578b441^5f5dd9737578b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/en.lproj/InfoPlist.strings0000000000000000^486"CopyStringsFile build/Release-iphoneos/NPweb.app/en.lproj/InfoPlist.strings NPweb/en.lproj/InfoPlist.strings    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/en.lproj -- NPweb/en.lproj/InfoPlist.strings
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist build/Release-iphoneos/NPweb.app/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb normal "armv6 armv7"
+s343475099.340965
+e343475099.353921
+r1
+xCreateUniversalBinary
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb
+xnormal
+xarmv6 armv7
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Create universal binary /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb5b5c579b0379b441^9ca75a9b0379b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb0000000000000000^590"CreateUniversalBinary build/Release-iphoneos/NPweb.app/NPweb normal "armv6 armv7"    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb -output /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb
+
+CGenerateDSYMFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb
+s343475099.355753
+e343475099.417763
+r1
+xGenerateDSYMFile
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Generating /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM5a2a5b9b0379b441^73f26a9b0379b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM/0000000000000000^454"GenerateDSYMFile build/Release-iphoneos/NPweb.app.dSYM build/Release-iphoneos/NPweb.app/NPweb    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app.dSYM
+
+CLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb normal armv6
+s343475099.219049
+e343475099.293065
+r1
+xLd
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb
+xnormal
+xarmv6
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb992a389b0379b441^2b124b9b0379b441^---0#0#0#--1049"Ld build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb normal armv6    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -filelist /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb.LinkFileList -dead_strip -lxml2 -miphoneos-version-min=4.3 -framework MobileCoreServices -lz.1.2.3 -framework SystemConfiguration -framework CFNetwork -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb
+
+CLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb normal armv7
+s343475099.271292
+e343475099.339503
+r1
+xLd
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb
+xnormal
+xarmv7
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb1689459b0379b441^2deb569b0379b441^---0#0#0#--1049"Ld build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb normal armv7    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -filelist /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb.LinkFileList -dead_strip -lxml2 -miphoneos-version-min=4.3 -framework MobileCoreServices -lz.1.2.3 -framework SystemConfiguration -framework CFNetwork -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb
+
+CLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/NPweb normal armv7
+r0
+
+CPhaseScriptExecution "Run Script" /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Script-EA582C58147874BC009C8245.sh
+s343475099.424946
+e343475099.760152
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Script-EA582C58147874BC009C8245.sh
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'c91d6e9b0379b441^3598c29b0379b441^---0#0#0#--17800"PhaseScriptExecution "Run Script" build/NPweb.build/Release-iphoneos/NPweb.build/Script-EA582C58147874BC009C8245.sh    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER isaak    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv6 armv7"    setenv ARCHS_STANDARD_32_64_BIT "armv6 armv7"    setenv ARCHS_STANDARD_32_BIT "armv6 armv7"    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv BUILD_ROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv BUILD_STYLE Release    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos    setenv CACHE_ROOT /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED NO    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos    setenv CONTENTS_FOLDER_PATH NPweb.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH NPweb.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/NPweb.dst    setenv DWARF_DSYM_FILE_NAME NPweb.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH NPweb.app/Executables    setenv EXECUTABLE_FOLDER_PATH NPweb.app    setenv EXECUTABLE_NAME NPweb    setenv EXECUTABLE_PATH NPweb.app/NPweb    setenv FILE_LIST /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH NPweb.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME NPweb.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER NPweb/NPweb-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE NPweb/NPweb-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH NPweb.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH NPweb.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/NPweb.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER isaak    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/NPweb.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH NPweb.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-LinkMap-normal-armv7.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEGACY_DEVELOPER_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv6/NPweb.LinkFileList    setenv LINK_FILE_LIST_normal_armv7 /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal/armv7/NPweb.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH NPweb.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH armv6    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Objects-normal    setenv OBJROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_CPLUSPLUSFLAGS -DNS_BLOCK_ASSERTIONS=1    setenv OTHER_LDFLAGS -lxml2    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH NPweb.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/PkgInfo    setenv PKGINFO_PATH NPweb.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 8H7    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH NPweb.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH NPweb.app/PrivateHeaders    setenv PRODUCT_NAME NPweb    setenv PRODUCT_SETTINGS_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT NPweb    setenv PROJECT_DERIVED_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/DerivedSources    setenv PROJECT_DIR /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PROJECT_FILE_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb.xcodeproj    setenv PROJECT_NAME NPweb    setenv PROJECT_TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH NPweb.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH NPweb.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk    setenv SDK_NAME iphoneos4.3    setenv SDK_PRODUCT_BUILD_VERSION 8H7    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH NPweb.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH NPweb.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/isaak/Documents/Dev/NPweb/NPweb    setenv SRCROOT /Users/isaak/Documents/Dev/NPweb/NPweb    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMBOL_REPOSITORY_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/SymbolRepositories    setenv SYMROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME NPweb    setenv TARGET_BUILD_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos    setenv TARGET_NAME NPweb    setenv TARGET_TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build    setenv TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build    setenv TEMP_FILES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build    setenv TEMP_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build    setenv TEMP_ROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH NPweb.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER isaak    setenv USER_APPS_DIR /Users/isaak/Applications    setenv USER_LIBRARY_DIR /Users/isaak/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT YES    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH NPweb.app/version.plist    setenv VERSION_INFO_BUILDER isaak    setenv VERSION_INFO_FILE NPweb_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:NPweb  PROJECT:NPweb-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME NPweb.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4A2002a    setenv XCODE_VERSION_ACTUAL 0402    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/Script-EA582C58147874BC009C8245.sh
+
+CProcessInfoPlistFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/Info.plist NPweb/NPweb-Info.plist
+s343438702.934734
+e343438702.945180
+r1
+xProcessInfoPlistFile
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/Info.plist
+xNPweb/NPweb-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process NPweb/NPweb-Info.plist6da9ef6e7578b441^dafef16e7578b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Info.plist0000000000000000^543"ProcessInfoPlistFile build/Release-iphoneos/NPweb.app/Info.plist NPweb/NPweb-Info.plist    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NPweb/NPweb-Info.plist -genpkginfo /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/Info.plist
+
+CProcessPCH /Users/isaak/Library/Developer/Xcode/DerivedData/NPweb-fuzsldwciiklmmduqlwkornzzdmt/Index/PrecompiledHeaders/NPweb-Prefix-afpgvuuhreclmecmtwwhszstazzh_ast/NPweb-Prefix.pch.pth NPweb/NPweb-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/isaak/Library/Developer/Xcode/DerivedData/NPweb-fuzsldwciiklmmduqlwkornzzdmt/Index/PrecompiledHeaders/NPweb-Prefix-bbacbwqhvvnmtvettoxcojolmqja_ast/NPweb-Prefix.pch.pth NPweb/NPweb-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch.gch NPweb/NPweb-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s343438702.953168
+e343438704.030271
+r1
+xProcessPCH
+x/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch.gch
+xNPweb/NPweb-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile NPweb/NPweb-Prefix.pche1eef46e7578b441^bedc07707578b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Prefix.pch0000000000000000^1911"ProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch.gch NPweb/NPweb-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Prefix.pch -o /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-eucraazusznivtetltvjjhvordbm/NPweb-Prefix.pch.gch
+
+CProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch.gch NPweb/NPweb-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+s343438702.957277
+e343438704.056309
+r1
+xProcessPCH
+x/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch.gch
+xNPweb/NPweb-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile NPweb/NPweb-Prefix.pch342df56e7578b441^cf690e707578b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Prefix.pch0000000000000000^1911"ProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch.gch NPweb/NPweb-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/NPweb-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Release-iphoneos/NPweb.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1, -I/usr/include/libxml2 -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb/NPweb-Prefix.pch -o /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPweb-Prefix-grwffkuecydahbebdirtgxgcuijg/NPweb-Prefix.pch.gch
+
+CTouch /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+s343475099.774235
+e343475099.786659
+r1
+xTouch
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Touch /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app224fc69b0379b441^397dc99b0379b441^---0#0#0#--303"Touch build/Release-iphoneos/NPweb.app    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+
+CValidate /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+s343475099.789632
+e343475099.985689
+r1
+xValidate
+x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+o2011-11-20 11:44:59.823 Validation[41634:607] *** Warning: Defaulting to the standard codesign tool
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+owarning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)
+o/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app: valid on disk
+o/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app: satisfies its Designated Requirement
+otest-requirement: failed to satisfy code requirement(s)
+o - (null)
+o
+owarning: This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: my.company.NPweb (-19053)
+oUnable to validate your application. - (null)
+o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Validate build/Release-iphoneos/NPweb.appbc3bca9b0379b441^868ffc9b0379b441^-1031"2011-11-20 11:44:59.823 Validation[41634:607] *** Warning: Defaulting to the standard codesign toolwarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)warning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app: valid on disk/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app: satisfies its Designated Requirementtest-requirement: failed to satisfy code requirement(s) - (null)warning: This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: my.company.NPweb (-19053)Unable to validate your application. - (null)3(21%IDEActivityLogMessage2@187" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)177"IPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57343475099#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@138" Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)128"Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate.343475099#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@221" This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: my.company.NPweb (-19053)211"This bundle is invalid. The application-identifier entitlement is not formatted correctly; it should contain your 10-character App ID Seed, followed by a dot, followed by your bundle identifier: my.company.NPweb343475099#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app/0000000000000000^415"Validate build/Release-iphoneos/NPweb.app    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/isaak/Documents/Dev/NPweb/NPweb/build/Release-iphoneos/NPweb.app
+
