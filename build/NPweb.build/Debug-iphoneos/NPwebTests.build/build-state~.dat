@@ -1,288 +1,0 @@
-TNPwebTests
-v3
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/Info.plist NPwebTests/NPwebTests-Info.plist
-cProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch.gch NPwebTests/NPwebTests-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
-cProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch.gch NPwebTests/NPwebTests-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests normal armv6
-cLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests normal armv7
-cCreateUniversalBinary /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests normal "armv6 armv7"
-cGenerateDSYMFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests
-cCopyStringsFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/en.lproj/InfoPlist.strings NPwebTests/en.lproj/InfoPlist.strings
-cCpResource NPwebTests/NPwebTests.h build/Debug-iphoneos/NPwebTests.octest/NPwebTests.h
-cPhaseScriptExecution "Run Script" /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Script-EA0EAF9214711C2700EC98C7.sh
-cTouch /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
-c000000004EC8397E0000000000000132
-t1321744766
-s306
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
-c000000004D93EC9800000000000008A5
-t1301539992
-s2213
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004D93E13C00000000003532B0
-t1301537084
-s3486384
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004D93E1FD00000000003E22F0
-t1301537277
-s4072176
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004D99FA7C0000000000000AA1
-t1301936764
-s2721
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004D99FAFA0000000000CA2AE0
-t1301936890
-s13249248
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Prefix.pch
-c000000004EC0E4A70000000000000097
-t1321264295
-s151
-i<UIKit/UIKit.h>
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.h
-c000000004EC0E4A700000000000000F8
-t1321264295
-s248
-i<SenTestingKit/SenTestingKit.h>
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m
-c000000004EC0E4A700000000000001B7
-t1321264295
-s439
-i"NPwebTests.h"
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/en.lproj/InfoPlist.strings
-c000000004EC0E4A7000000000000002D
-t1321264295
-s45
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/Info.plist
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests.h
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.LinkFileList
-c000000004EC8BF24000000000000007B
-t1321778980
-s123
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.o
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.LinkFileList
-c000000004EC8BF24000000000000007B
-t1321778980
-s123
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.o
-t2
-s0
-
-N/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Script-EA0EAF9214711C2700EC98C7.sh
-c000000004EC8BF240000000000000062
-t1321778980
-s98
-
-N/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch.gch
-t2
-s0
-
-N/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch.gch
-t2
-s0
-
-NNPwebTests/NPwebTests-Info.plist
-c000000004EC0E4A700000000000002AC
-t1321264295
-s684
-
-CBuild AST from /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m
-r0
-
-CCheck dependencies
-r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8a94c6a4f678b441^b22acaa4f678b441^---0#1#0#--18"Check dependencies
-
-CCompileC build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-s343471781.497913
-e343471781.595935
-r1
-xCompileC
-xbuild/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.o
-x/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.maf967fa5f678b441^4e9898a5f678b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m0000000000000000^2141"CompileC build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.o NPwebTests/NPwebTests.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.o
-
-CCompileC build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.o /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s343471781.504531
-e343471781.596571
-r1
-xCompileC
-xbuild/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.o
-x/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m174781a5f678b441^aeb898a5f678b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m0000000000000000^2141"CompileC build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.o NPwebTests/NPwebTests.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -include /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.m -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.o
-
-CCopyStringsFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/en.lproj/InfoPlist.strings NPwebTests/en.lproj/InfoPlist.strings
-s343471781.681677
-e343471781.685538
-r1
-xCopyStringsFile
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/en.lproj/InfoPlist.strings
-xNPwebTests/en.lproj/InfoPlist.strings
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy NPwebTests/en.lproj/InfoPlist.stringsb396aea5f678b441^9489afa5f678b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/en.lproj/InfoPlist.strings0000000000000000^508"CopyStringsFile build/Debug-iphoneos/NPwebTests.octest/en.lproj/InfoPlist.strings NPwebTests/en.lproj/InfoPlist.strings    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/en.lproj -- NPwebTests/en.lproj/InfoPlist.strings
-
-CCpResource NPwebTests/NPwebTests.h build/Debug-iphoneos/NPwebTests.octest/NPwebTests.h
-s343471781.682143
-e343471781.687163
-r1
-xCpResource
-xNPwebTests/NPwebTests.h
-xbuild/Debug-iphoneos/NPwebTests.octest/NPwebTests.h
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphoneos/NPwebTests.octest/NPwebTests.h0abdaea5f678b441^1ceaafa5f678b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests.h0000204d2205f041^518"CpResource NPwebTests/NPwebTests.h build/Debug-iphoneos/NPwebTests.octest/NPwebTests.h    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests.h /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest
-
-CCreateUniversalBinary /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests normal "armv6 armv7"
-s343471781.647025
-e343471781.657660
-r1
-xCreateUniversalBinary
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests
-xnormal
-xarmv6 armv7
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Create universal binary /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTestsbbb8a5a5f678b441^b75da8a5f678b441^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests0000204d2205f041^628"CreateUniversalBinary build/Debug-iphoneos/NPwebTests.octest/NPwebTests normal "armv6 armv7"    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests -output /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests
-
-CGenerateDSYMFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests
-s343471781.658930
-e343471781.678741
-r1
-xGenerateDSYMFile
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generating /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM83c2a8a5f678b441^d7c1ada5f678b441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM0000204d2205f041^488"GenerateDSYMFile build/Debug-iphoneos/NPwebTests.octest.dSYM build/Debug-iphoneos/NPwebTests.octest/NPwebTests    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/NPwebTests -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest.dSYM
-
-CLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests normal armv6
-s343471781.597137
-e343471781.645351
-r1
-xLd
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests
-xnormal
-xarmv6
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTestsf1f698a5f678b441^963da5a5f678b441^---0#0#0#--1296"Ld build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests normal armv6    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -bundle -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -filelist /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.LinkFileList -dead_strip -bundle_loader /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPweb.app/NPweb -framework SenTestingKit -miphoneos-version-min=4.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests
-
-CLd /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests normal armv7
-s343471781.598631
-e343471781.645348
-r1
-xLd
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests
-xnormal
-xarmv7
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests605999a5f678b441^1538a5a5f678b441^---0#0#0#--1296"Ld build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests normal armv7    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -bundle -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -filelist /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.LinkFileList -dead_strip -bundle_loader /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPweb.app/NPweb -framework SenTestingKit -miphoneos-version-min=4.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests
-
-CPhaseScriptExecution "Run Script" /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Script-EA0EAF9214711C2700EC98C7.sh
-s343471781.689942
-e343471781.717500
-r1
-xPhaseScriptExecution
-xRun Script
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Script-EA0EAF9214711C2700EC98C7.sh
-o/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'2fa6b1a5f678b441^10afb7a5f678b441^-122"/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.1(21%IDEActivityLogMessage2@81"RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.-343471781#0#122#-0#-23%DVTTextDocumentLocation3@45"file://localhost/Developer/Tools/RunUnitTests0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#30"Shell Script Invocation Notice--0#0#0#--18336"PhaseScriptExecution "Run Script" build/NPweb.build/Debug-iphoneos/NPwebTests.build/Script-EA0EAF9214711C2700EC98C7.sh    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER isaak    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv6 armv7"    setenv ARCHS_STANDARD_32_64_BIT "armv6 armv7"    setenv ARCHS_STANDARD_32_BIT "armv6 armv7"    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv BUILD_ROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos    setenv BUNDLE_LOADER /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPweb.app/NPweb    setenv CACHE_ROOT /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest    setenv CODE_SIGNING_REQUIRED NO    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH NPwebTests.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH NPwebTests.octest/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/NPweb.dst    setenv DWARF_DSYM_FILE_NAME NPwebTests.octest.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_REQUIRED NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH NPwebTests.octest/Executables    setenv EXECUTABLE_FOLDER_PATH NPwebTests.octest    setenv EXECUTABLE_NAME NPwebTests    setenv EXECUTABLE_PATH NPwebTests.octest/NPwebTests    setenv FILE_LIST /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH NPwebTests.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME NPwebTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER NPwebTests/NPwebTests-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS DEBUG    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE NPwebTests/NPwebTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH NPwebTests.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH NPwebTests.octest/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/NPweb.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER isaak    setenv INSTALL_ROOT /tmp/NPweb.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH NPwebTests.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-LinkMap-normal-armv7.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEGACY_DEVELOPER_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv6/NPwebTests.LinkFileList    setenv LINK_FILE_LIST_normal_armv7 /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal/armv7/NPwebTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH NPwebTests.octest/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH armv6    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Objects-normal    setenv OBJROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework SenTestingKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH NPwebTests.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/PkgInfo    setenv PKGINFO_PATH NPwebTests.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 8H7    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH NPwebTests.octest/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH NPwebTests.octest/PrivateHeaders    setenv PRODUCT_NAME NPwebTests    setenv PRODUCT_SETTINGS_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT NPweb    setenv PROJECT_DERIVED_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/DerivedSources    setenv PROJECT_DIR /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PROJECT_FILE_PATH /Users/isaak/Documents/Dev/NPweb/NPweb/NPweb.xcodeproj    setenv PROJECT_NAME NPweb    setenv PROJECT_TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build    setenv PUBLIC_HEADERS_FOLDER_PATH NPwebTests.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH NPwebTests.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk    setenv SDK_NAME iphoneos4.3    setenv SDK_PRODUCT_BUILD_VERSION 8H7    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH NPwebTests.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH NPwebTests.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/isaak/Documents/Dev/NPweb/NPweb    setenv SRCROOT /Users/isaak/Documents/Dev/NPweb/NPweb    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMBOL_REPOSITORY_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/SymbolRepositories    setenv SYMROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME NPwebTests    setenv TARGET_BUILD_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos    setenv TARGET_NAME NPwebTests    setenv TARGET_TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build    setenv TEMP_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build    setenv TEMP_FILES_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build    setenv TEMP_FILE_DIR /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build    setenv TEMP_ROOT /Users/isaak/Documents/Dev/NPweb/NPweb/build    setenv TEST_AFTER_BUILD NO    setenv TEST_HOST /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPweb.app/NPweb    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH NPwebTests.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER isaak    setenv USER_APPS_DIR /Users/isaak/Applications    setenv USER_LIBRARY_DIR /Users/isaak/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH NPwebTests.octest/version.plist    setenv VERSION_INFO_BUILDER isaak    setenv VERSION_INFO_FILE NPwebTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:NPwebTests  PROJECT:NPweb-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME NPwebTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4A2002a    setenv XCODE_VERSION_ACTUAL 0402    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/Script-EA0EAF9214711C2700EC98C7.sh
-
-CProcessInfoPlistFile /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/Info.plist NPwebTests/NPwebTests-Info.plist
-s343471780.797077
-e343471780.800367
-r1
-xProcessInfoPlistFile
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/Info.plist
-xNPwebTests/NPwebTests-Info.plist
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process NPwebTests/NPwebTests-Info.plist3e20cca4f678b441^f7e5cca4f678b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Info.plist0000000000000000^483"ProcessInfoPlistFile build/Debug-iphoneos/NPwebTests.octest/Info.plist NPwebTests/NPwebTests-Info.plist    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NPwebTests/NPwebTests-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest/Info.plist
-
-CProcessPCH /Users/isaak/Library/Developer/Xcode/DerivedData/NPweb-fuzsldwciiklmmduqlwkornzzdmt/Index/PrecompiledHeaders/NPwebTests-Prefix-fdrdsaxhxqfgzkgdkwgwrlvtlbpl_ast/NPwebTests-Prefix.pch.pth NPwebTests/NPwebTests-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/isaak/Library/Developer/Xcode/DerivedData/NPweb-fuzsldwciiklmmduqlwkornzzdmt/Index/PrecompiledHeaders/NPwebTests-Prefix-fpuuhjmkbtkaqzbfwpmsxrjearhr_ast/NPwebTests-Prefix.pch.pth NPwebTests/NPwebTests-Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch.gch NPwebTests/NPwebTests-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
-s343471780.803208
-e343471781.495257
-r1
-xProcessPCH
-x/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch.gch
-xNPwebTests/NPwebTests-Prefix.pch
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile NPwebTests/NPwebTests-Prefix.pch06bbcda4f678b441^a3c87ea5f678b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Prefix.pch0000000000000000^2127"ProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch.gch NPwebTests/NPwebTests-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources/armv6 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Prefix.pch -o /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-dznckkquunoqgjgbpwclrbjszvox/NPwebTests-Prefix.pch.gch
-
-CProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch.gch NPwebTests/NPwebTests-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
-s343471780.803844
-e343471781.502674
-r1
-xProcessPCH
-x/var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch.gch
-xNPwebTests/NPwebTests-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile NPwebTests/NPwebTests-Prefix.pch1de4cda4f678b441^41ba80a5f678b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Prefix.pch0000000000000000^2127"ProcessPCH /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch.gch NPwebTests/NPwebTests-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-generated-files.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-own-target-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-all-target-headers.hmap -iquote /Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/NPwebTests-project-headers.hmap -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/include -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources/armv7 -I/Users/isaak/Documents/Dev/NPweb/NPweb/build/NPweb.build/Debug-iphoneos/NPwebTests.build/DerivedSources -F/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -c /Users/isaak/Documents/Dev/NPweb/NPweb/NPwebTests/NPwebTests-Prefix.pch -o /var/folders/UU/UU7qIlkXFemOvsahCwD+ME+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NPwebTests-Prefix-fgflfgyaejykyqavfclhwpyaekos/NPwebTests-Prefix.pch.gch
-
-CTouch /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest
-s343471781.720461
-e343471781.739474
-r1
-xTouch
-x/Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Touch /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octestc381b8a5f678b441^6c5ebda5f678b441^---0#0#0#--315"Touch build/Debug-iphoneos/NPwebTests.octest    cd /Users/isaak/Documents/Dev/NPweb/NPweb    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/isaak/Documents/Dev/NPweb/NPweb/build/Debug-iphoneos/NPwebTests.octest
-
